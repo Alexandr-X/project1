@@ -1,6 +1,6 @@
 # My name is Sasha
 ## Im web developer
-# <code style="color : red">And now I tell you how you can open react project</code> 
+ <code style="color : red">And now I tell you how you can open react project</code> 
 to run project first you need open folder with your project next
 you need to open terminal 
 ## its button is place on the top of vs code
