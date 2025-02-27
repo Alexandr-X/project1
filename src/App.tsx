@@ -6,7 +6,7 @@ import { useEffect } from "react";
 const queryClient = new QueryClient();
 
 function App() {
-  useEffect(() => console.log(queryClient, "client"), []);
+  useEffect(() => console.log(queryClient, "clients"), []);
 
   return (
     <QueryClientProvider client={queryClient}>
